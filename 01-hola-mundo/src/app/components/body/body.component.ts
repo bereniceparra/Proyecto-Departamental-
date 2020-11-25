@@ -11,9 +11,9 @@ export class BodyComponent{
   mostrar = true;
 
   frase: any = {
-    mensaje: 'Un gran poder requiere una gran responsabilidad',
-    autor: 'Ben Parker'
+    mensaje: 'AUTOS MAS LUJOSOS',
+    autor: 'EDER'
   };
-  personajes: string[] = ['spiderman', 'Venom', ' Dr. Octopus']
+  personajes: string[] = ['LAMBORGINI', 'BUGATI', ' FERRARI']
   i = 1; 
 }
